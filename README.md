@@ -15,3 +15,10 @@ Para testes futuros, utilize o EclipseIDE:
 
 Este projeto foi criado com o propósito de servir como item no meu portfólio e para aprimorar meus estudos em JAVA.
 
+##Imagens Prints_do_GAME
+
+![img_5](https://github.com/LucasMarkNes/Game_Acao/assets/103937259/67917f50-d27d-4f2c-810d-6180113ff950)
+![img_4](https://github.com/LucasMarkNes/Game_Acao/assets/103937259/e54cc69b-914f-4624-bd4c-2519bf8239f2)
+![img_3](https://github.com/LucasMarkNes/Game_Acao/assets/103937259/1283c90e-e480-4351-9b18-858af52c084b)
+![img_2](https://github.com/LucasMarkNes/Game_Acao/assets/103937259/6a47551c-d93e-4deb-8849-236ad436f6c4)
+![img_1](https://github.com/LucasMarkNes/Game_Acao/assets/103937259/170cbb1d-7ab8-49a2-b95f-64976f72a086)
