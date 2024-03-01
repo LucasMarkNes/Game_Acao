@@ -20,7 +20,6 @@ Este projeto foi criado com o propósito de servir como item no meu portfólio e
 
 ## Imagens Prints_do_GAME
 
----
 ![img_5](https://github.com/LucasMarkNes/Game_Acao/assets/103937259/67917f50-d27d-4f2c-810d-6180113ff950)
 ---
 ![img_4](https://github.com/LucasMarkNes/Game_Acao/assets/103937259/e54cc69b-914f-4624-bd4c-2519bf8239f2)
